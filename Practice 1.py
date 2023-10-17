@@ -2,7 +2,7 @@ import imp
 import os
 import csv
 
-os.mkdir("watch_me")
+os.mkdir("watch_me") #леееееее
 os.mkdir("list")
 
 file_name = os.path.basename('C:\Homework os library\sub\Nina_Stoletova.jfif')
